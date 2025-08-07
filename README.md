@@ -131,7 +131,7 @@ Further analysis could involve time series forecasting to predict future unemplo
 
 ---
 
-**Author**: Manus AI
+**Author**: Abdul Haseeb
 **Date**: 8/7/2025
 
 
